@@ -11,7 +11,7 @@
     overflow: hidden;
 }
 .container{
-    background: url(bg.jpeg);
+    background: url("Images/bg.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: sans-serif;
@@ -21,7 +21,7 @@
     min-height: 100vh;
 }  
 .content{
-    background:violet;
+    background: lightgrey;
     border-radius: 10px;
     border: 20px;
     width: 500px;
@@ -83,7 +83,7 @@ h2{
 }
 .details button{
     cursor: pointer;
-    background-color: #3498db;
+    background-color: #67b4e7;
     border: 2px solid rgb(113, 18, 151);
     border-radius: 5px;
     color: #111;
